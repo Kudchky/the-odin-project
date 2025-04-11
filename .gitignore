@@ -1,0 +1,22 @@
+# Archivos del sistema (macOS, Linux, Windows)
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Carpetas de compilación o distribución
+dist/
+build/
+
+# Archivos temporales del editor
+.vscode/
+.idea/
+*.swp
+
+# Node modules (por si en algún momento usas npm para alguna herramienta)
+node_modules/
+
+# Archivos de entorno (por si agregas alguna variable de entorno)
+.env
+.env.local
