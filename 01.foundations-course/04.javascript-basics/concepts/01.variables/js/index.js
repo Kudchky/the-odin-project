@@ -1,6 +1,2 @@
-let nombre = "hola";
-
-function suma(a) {
-    return a;
-    console.log(a);
-}
+const PI = 3.1416;
+console.log(PI);
