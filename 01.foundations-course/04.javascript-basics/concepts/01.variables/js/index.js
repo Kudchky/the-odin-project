@@ -1,6 +1,6 @@
-let name = 6;
-name = 4;
+let lastname = "castillo";
 
 let arr = [2, 5, 6, 7];
 
-console.log(name);
+console.log(lastname);
+console.log(arr);
