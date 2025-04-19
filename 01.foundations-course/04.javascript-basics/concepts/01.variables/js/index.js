@@ -1,2 +1,4 @@
-const PI = 3.1416;
-console.log(PI);
+let name = 6;
+name = 4;
+
+console.log(name);
