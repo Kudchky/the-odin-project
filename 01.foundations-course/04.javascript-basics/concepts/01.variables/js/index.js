@@ -1,6 +1,5 @@
-let lastname = "castillo";
+let lastname = "Castillo";
+let arr = [1, 3, 5, 6];
 
-let arr = [2, 5, 6, 7];
-
-console.log(lastname);
 console.log(arr);
+console.log(lastname)
