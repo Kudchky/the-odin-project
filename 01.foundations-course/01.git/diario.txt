@@ -4,4 +4,6 @@ Dia 2: Aprendiendo sobre commits
 
 Dia 3: Descubriendo ramas
 
+Dia 4: Retrocediendo en el tiempo con checkout
+
 
